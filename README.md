@@ -16,7 +16,7 @@ My passion lies in converting ideas into **production-ready digital products** t
 
 ---
 
-## 🔨 Featured Projects (Previously Built)
+## 🔨 Featured Projects
 
 These are some of my most impactful, full-stack applications:
 
