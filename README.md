@@ -42,15 +42,15 @@ Google Gemini API • AI Automation • REST APIs • Cloudinary • Socket.IO �
 
 ### **3️⃣ WanderLust – Travel Booking Web App**  
 📂 GitHub: *https://github.com/sproul2005/WANDERLUST*  
-🔗 Live: *(Add live link if available)*  
+🔗 Live: *https://wanderlust-i0mb.onrender.com*  
 
 ### **4️⃣ JobPortal – Job Listing & Application Platform**  
 📂 GitHub: *https://github.com/sproul2005/JOBPORTAL*  
-🔗 Live: *(Add live link if available)*    
+🔗 Live: *https://jobportal-as0d.onrender.com*    
 
 ### **5️⃣ AI Voice Assistant Dashboard (MERN + Gemini API)**  
 📂 GitHub: *https://github.com/sproul2005/AI-Virtual-Assistant*  
-🔗 Live: *(Add live link)*  
+🔗 Live: *https://ai-virtual-assistant-qmf4.onrender.com*  
 
 ---
 
