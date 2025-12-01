@@ -33,12 +33,12 @@ Google Gemini API • AI Automation • REST APIs • Cloudinary • Socket.IO �
 ## 📌 Featured Projects
 
 ### **1️⃣ Instagram Clone (MERN + Socket.IO + JWT + Cloudinary)** 
-📂 GitHub: https://github.com/sproul2005/INSTAGRAM_CLONE 
+📂 GitHub: *https://github.com/sproul2005/INSTAGRAM_CLONE* 
 🔗 Live: https://instagram-clone-qobx.onrender.com  
  
 ### **2️⃣ MediMeet – Doctor Appointment Web App**  
 📂 GitHub: *https://github.com/sproul2005/MEDIMEET*  
-🔗 Live: *(Add live link if available)*  
+🔗 Live: *https://medimeet-d27fnqv8c-satya-prakash-rouls-projects.vercel.app/*  
 
 ### **3️⃣ WanderLust – Travel Booking Web App**  
 📂 GitHub: *https://github.com/sproul2005/WANDERLUST*  
