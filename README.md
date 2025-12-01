@@ -37,19 +37,19 @@ Google Gemini API • AI Automation • REST APIs • Cloudinary • Socket.IO �
 🔗 Live: https://instagram-clone-qobx.onrender.com  
  
 ### **2️⃣ MediMeet – Doctor Appointment Web App**  
-📂 GitHub: *(Add your GitHub link here – I will insert it if you provide)*  
+📂 GitHub: *https://github.com/sproul2005/MEDIMEET*  
 🔗 Live: *(Add live link if available)*  
 
 ### **3️⃣ WanderLust – Travel Booking Web App**  
-📂 GitHub: *(Add GitHub link)*  
+📂 GitHub: *https://github.com/sproul2005/WANDERLUST*  
 🔗 Live: *(Add live link if available)*  
 
-### **4️⃣ Velora – Real-time Chat App**  
-📂 GitHub: *(Add GitHub link)*  
-🔗 Live: *(Add live link if available)*  
+### **4️⃣ JobPortal – Job Listing & Application Platform**  
+📂 GitHub: *https://github.com/sproul2005/JOBPORTAL*  
+🔗 Live: *(Add live link if available)*    
 
 ### **5️⃣ AI Voice Assistant Dashboard (MERN + Gemini API)**  
-📂 GitHub: *(Add GitHub link)*  
+📂 GitHub: *https://github.com/sproul2005/AI-Virtual-Assistant*  
 🔗 Live: *(Add live link)*  
 
 ---
