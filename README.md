@@ -10,8 +10,7 @@ I'm a final-year B.Tech CSE student passionate about building real-world, scalab
 
 - 🌱 Currently learning **Full-Stack Development, AI Integration & Cloud Deployment**
 - 🤖 Building an **AI-powered Voice Assistant (MERN + Gemini API)**
-- 🧪 Exploring automation tools, code review AI, and freelancing
-- 🎥 Creating **motivational & storytelling videos** on YouTube (Tweencraft)
+- 🧪 Exploring automation tools, code review AI, and freelancing.
 
 ---
 
